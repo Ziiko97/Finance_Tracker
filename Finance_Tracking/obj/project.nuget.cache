@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "N8Nhxdxlv2aKfDG7EbSZsD8k1XlsFIc6Pu0m6r21Px2Gc94rdSF9vfbiHh/EXZm99uurpklsaCK3+JWrdfI6mQ==",
+  "dgSpecHash": "bTrNUCxYVaICviIy42Jp3mHbrRNi3awwaPlr48S7l6h6OXm7CYaPTqSt7n4SUax2Od/+IGK/wFofHzhMcpUQIA==",
   "success": true,
-  "projectFilePath": "/Users/ziadeljerbi/Projects/Finance_Tracking/Finance_Tracking/Finance_Tracking.csproj",
+  "projectFilePath": "/Users/ziadeljerbi/Desktop/Finance_Tracking/Finance_Tracking/Finance_Tracking.csproj",
   "expectedPackageFiles": [
     "/Users/ziadeljerbi/.nuget/packages/azure.core/1.24.0/azure.core.1.24.0.nupkg.sha512",
     "/Users/ziadeljerbi/.nuget/packages/azure.identity/1.6.0/azure.identity.1.6.0.nupkg.sha512",

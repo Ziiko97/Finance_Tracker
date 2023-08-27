@@ -12017,11 +12017,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/ziadeljerbi/Projects/Finance_Tracking/Finance_Tracking/Finance_Tracking.csproj",
+      "projectUniqueName": "/Users/ziadeljerbi/Desktop/Finance_Tracking/Finance_Tracking/Finance_Tracking.csproj",
       "projectName": "Finance_Tracking",
-      "projectPath": "/Users/ziadeljerbi/Projects/Finance_Tracking/Finance_Tracking/Finance_Tracking.csproj",
+      "projectPath": "/Users/ziadeljerbi/Desktop/Finance_Tracking/Finance_Tracking/Finance_Tracking.csproj",
       "packagesPath": "/Users/ziadeljerbi/.nuget/packages/",
-      "outputPath": "/Users/ziadeljerbi/Projects/Finance_Tracking/Finance_Tracking/obj/",
+      "outputPath": "/Users/ziadeljerbi/Desktop/Finance_Tracking/Finance_Tracking/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/ziadeljerbi/.nuget/NuGet/NuGet.Config"
