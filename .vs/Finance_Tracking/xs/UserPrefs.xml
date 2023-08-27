@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{E5B96F6F-C885-46F5-91DD-E41FD82D9841}|Default">
+  <MonoDevelop.Ide.ItemProperties.Finance__Tracking PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Finance_Tracking/appsettings.json">
+    <Files>
+      <File FileName="Finance_Tracking/Views/Category/AddOrEdit.cshtml" Line="44" Column="1" />
+      <File FileName="Finance_Tracking/appsettings.Development.json" Line="1" Column="1" />
+      <File FileName="Finance_Tracking/appsettings.json" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Finance_Tracking" expanded="True">
+            <Node name="Finance_Tracking">
+              <Node name="Migrations" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="Category" expanded="True" />
+              </Node>
+              <Node name="appsettings.json" expanded="True" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
