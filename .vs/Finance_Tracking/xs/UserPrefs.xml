@@ -1,29 +1,42 @@
 ﻿<Properties StartupConfiguration="{E5B96F6F-C885-46F5-91DD-E41FD82D9841}|Default">
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Finance_Tracking/appsettings.json">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Finance__Tracking PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Finance_Tracking/Controllers/TransactionController.cs">
     <Files>
-      <File FileName="Finance_Tracking/Views/Category/AddOrEdit.cshtml" />
-      <File FileName="Finance_Tracking/appsettings.Development.json" />
-      <File FileName="Finance_Tracking/appsettings.json" Line="11" Column="4" />
+      <File FileName="Finance_Tracking/Controllers/TransactionController.cs" Line="29" Column="41" />
+      <File FileName="Finance_Tracking/Views/Transaction/AddOrEdit.cshtml" Line="4" Column="5" />
+      <File FileName="Finance_Tracking/Views/Transaction/Index.cshtml" Line="4" Column="5" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="Finance_Tracking" selected="True">
+          <Node name="Finance_Tracking">
             <Node name="Finance_Tracking">
-              <Node name="Views" expanded="True">
-                <Node name="Category" expanded="True" />
+              <Node name="Controllers" expanded="True">
+                <Node name="TransactionController.cs" selected="True" />
               </Node>
+              <Node name="Models" expanded="True" />
+              <Node name="Views">
+                <Node name="Category" expanded="True" />
+                <Node name="Shared" expanded="True" />
+                <Node name="Transaction" expanded="True" />
+              </Node>
+              <Node name="wwwroot" expanded="True">
+                <Node name="css" expanded="True" />
+              </Node>
+              <Node name="appsettings.json" expanded="True" />
             </Node>
           </Node>
         </State>
       </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.ItemProperties.Finance__Tracking PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MultiItemStartupConfigurations />
 </Properties>
