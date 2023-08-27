@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "eIPxs5cwUuTtq7/oTUEOWPfdnuArh7eLkmUjzt+N4U0=",
+  "Hash": "bUov2rs1HWrTolxhB3JntRKavrwT13gENoXaC0hu5ks=",
   "Source": "Finance_Tracking",
   "BasePath": "_content/Finance_Tracking",
   "Mode": "Default",
@@ -66,6 +66,40 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot/css/site.css"
+    },
+    {
+      "Identity": "/Users/ziadeljerbi/Desktop/Finance_Tracking/Finance_Tracking/wwwroot/favicon-16x16.png",
+      "SourceId": "Finance_Tracking",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/ziadeljerbi/Desktop/Finance_Tracking/Finance_Tracking/wwwroot/",
+      "BasePath": "_content/Finance_Tracking",
+      "RelativePath": "favicon-16x16.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/favicon-16x16.png"
+    },
+    {
+      "Identity": "/Users/ziadeljerbi/Desktop/Finance_Tracking/Finance_Tracking/wwwroot/favicon-32x32.png",
+      "SourceId": "Finance_Tracking",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/ziadeljerbi/Desktop/Finance_Tracking/Finance_Tracking/wwwroot/",
+      "BasePath": "_content/Finance_Tracking",
+      "RelativePath": "favicon-32x32.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/favicon-32x32.png"
     },
     {
       "Identity": "/Users/ziadeljerbi/Desktop/Finance_Tracking/Finance_Tracking/wwwroot/favicon.ico",
