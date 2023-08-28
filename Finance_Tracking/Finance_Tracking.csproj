@@ -26,6 +26,12 @@
     <PackageReference Include="Syncfusion.EJ2.AspNet.Core" Version="22.2.10" />
   </ItemGroup>
   <ItemGroup>
+    <None Remove="Views\Dashboard\" />
+  </ItemGroup>
+  <ItemGroup>
     <None Include="..\.editorconfig" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Views\Dashboard\" />
   </ItemGroup>
 </Project>
