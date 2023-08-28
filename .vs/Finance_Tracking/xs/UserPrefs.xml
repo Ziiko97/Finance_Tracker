@@ -1,12 +1,17 @@
 ﻿<Properties StartupConfiguration="{E5B96F6F-C885-46F5-91DD-E41FD82D9841}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.Finance__Tracking PreferredExecutionTarget="/Applications/Google Chrome.app" />
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Finance_Tracking/Controllers/TransactionController.cs">
+  <MonoDevelop.Ide.ItemProperties.Finance__Tracking PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Finance_Tracking/Controllers/DashboardController.cs">
     <Files>
-      <File FileName="Finance_Tracking/Controllers/TransactionController.cs" Line="29" Column="41" />
-      <File FileName="Finance_Tracking/Views/Transaction/AddOrEdit.cshtml" Line="4" Column="5" />
-      <File FileName="Finance_Tracking/Views/Transaction/Index.cshtml" Line="4" Column="5" />
+      <File FileName="Finance_Tracking/Controllers/DashboardController.cs" Line="61" Column="49" />
+      <File FileName="Finance_Tracking/Views/Dashboard/Index.cshtml" Line="54" Column="67" />
+      <File FileName="Finance_Tracking/Views/Shared/_Sidebar.cshtml" Line="5" Column="2" />
+      <File FileName="Finance_Tracking/Views/Shared/_Layout.cshtml" Line="40" Column="35" />
+      <File FileName="Finance_Tracking/wwwroot/css/site.css" Line="183" Column="6" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -14,18 +19,11 @@
           <Node name="Finance_Tracking">
             <Node name="Finance_Tracking">
               <Node name="Controllers" expanded="True">
-                <Node name="TransactionController.cs" selected="True" />
+                <Node name="DashboardController.cs" selected="True" />
               </Node>
-              <Node name="Models" expanded="True" />
               <Node name="Views">
-                <Node name="Category" expanded="True" />
-                <Node name="Shared" expanded="True" />
-                <Node name="Transaction" expanded="True" />
+                <Node name="Dashboard" expanded="True" />
               </Node>
-              <Node name="wwwroot" expanded="True">
-                <Node name="css" expanded="True" />
-              </Node>
-              <Node name="appsettings.json" expanded="True" />
             </Node>
           </Node>
         </State>
@@ -36,7 +34,4 @@
     </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
-  </MonoDevelop.Ide.DebuggingService.Breakpoints>
 </Properties>
